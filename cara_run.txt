@@ -1,0 +1,5 @@
+install extensoan yg d gunakan di folder itu
+PS C:\laragon\www\py\node> pip install -r requirements.txt
+jalan kan kode python app.py 
+PS C:\laragon\www\py\node> python app.py  
+buka di broser http setlah menjalankan kode di atas
